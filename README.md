@@ -85,7 +85,7 @@ me.say_hi()
 
 ### [**Scam Honeypot**](https://github.com/singh527/scam_honeypot)
 
-<img src="./project_preview.png" width="600px" style="border-radius: 12px; border: 3px solid #00F7FF; box-shadow: 0 0 20px rgba(0, 247, 255, 0.4);" />
+<img src="./project_preview.png" width="400px" style="border-radius: 12px; border: 2px solid #00F7FF; box-shadow: 0 0 15px rgba(0, 247, 255, 0.3);" />
 
 *AI-powered honeypot system designed to detect and analyze fraudulent patterns.*
 
@@ -97,7 +97,7 @@ me.say_hi()
 
 <div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=singh527&theme=tokyonight&color=00f7ff&hide_border=true&area=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=singh527&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FF10F0&area=true&hide_border=true)
 
 </div>
 
