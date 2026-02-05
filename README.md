@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](./banner.png)
+<img src="./banner.png" width="100%" height="200px" style="object-fit: cover; border-radius: 10px;" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F7FF&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Singh527+%F0%9F%91%8B;Full+Stack+Developer+%7C+Tech+Innovator;Building+the+Future%2C+One+Commit+at+a+Time+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -14,6 +14,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/singh527?style=for-the-badge&logo=github&logoColor=white&color=7C3AED)](https://github.com/singh527)
 [![Profile Views](https://komarev.com/ghpvc/?username=singh527&style=for-the-badge&color=blueviolet)](https://github.com/singh527)
+[![Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=singh527&theme=tokyonight&hide_border=true&stroke=00F7FF)](https://github.com/singh527)
 
 </div>
 
@@ -84,9 +85,19 @@ me.say_hi()
 
 ### [**Scam Honeypot**](https://github.com/singh527/scam_honeypot)
 
-![Project Preview](./project_preview.png)
+<img src="./project_preview.png" width="800px" style="border-radius: 15px; border: 2px solid #FF10F0;" />
 
 *AI-powered honeypot system designed to detect and analyze fraudulent patterns.*
+
+</div>
+
+---
+
+## 💠 **GitHub Activity**
+
+<div align="center">
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=singh527&theme=tokyonight&hide_border=true&area=true)
 
 </div>
 
@@ -117,6 +128,8 @@ me.say_hi()
 <div align="center">
 
 ### 💜 **Thanks for visiting!** 💜
+
+> "Talk is cheap. Show me the code." - Linus Torvalds
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
