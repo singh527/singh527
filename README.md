@@ -14,7 +14,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/singh527?style=for-the-badge&logo=github&logoColor=white&color=7C3AED)](https://github.com/singh527)
 [![Profile Views](https://komarev.com/ghpvc/?username=singh527&style=for-the-badge&color=blueviolet)](https://github.com/singh527)
-[![Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=singh527&theme=tokyonight&hide_border=true&stroke=00F7FF)](https://github.com/singh527)
+[![Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=singh527&theme=tokyonight&hide_border=true&stroke=00F7FF&ring=FF10F0&fire=FF10F0)](https://github.com/singh527)
 
 </div>
 
@@ -85,7 +85,7 @@ me.say_hi()
 
 ### [**Scam Honeypot**](https://github.com/singh527/scam_honeypot)
 
-<img src="./project_preview.png" width="800px" style="border-radius: 15px; border: 2px solid #FF10F0;" />
+<img src="./project_preview.png" width="600px" style="border-radius: 12px; border: 3px solid #00F7FF; box-shadow: 0 0 20px rgba(0, 247, 255, 0.4);" />
 
 *AI-powered honeypot system designed to detect and analyze fraudulent patterns.*
 
@@ -97,7 +97,19 @@ me.say_hi()
 
 <div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=singh527&theme=tokyonight&hide_border=true&area=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=singh527&theme=tokyonight&color=00f7ff&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 💬 **Motivational Quotes**
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+> "The only way to do great work is to love what you do." - Steve Jobs
 
 </div>
 
@@ -128,8 +140,6 @@ me.say_hi()
 <div align="center">
 
 ### 💜 **Thanks for visiting!** 💜
-
-> "Talk is cheap. Show me the code." - Linus Torvalds
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
