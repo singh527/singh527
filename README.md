@@ -85,7 +85,7 @@ me.say_hi()
 
 ### [**Scam Honeypot**](https://github.com/singh527/scam_honeypot)
 
-<img src="./project_preview.png" width="400px" style="border-radius: 12px; border: 2px solid #00F7FF; box-shadow: 0 0 15px rgba(0, 247, 255, 0.3);" />
+<img src="./project_preview.png" width="300px" style="border-radius: 12px; border: 2px solid #00F7FF; box-shadow: 0 0 15px rgba(0, 247, 255, 0.3);" />
 
 *AI-powered honeypot system designed to detect and analyze fraudulent patterns.*
 
